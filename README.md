@@ -1,2 +1,2 @@
-# .github
-Bro Protocol
+# Bor Protocol
+Agentic streaming protocol
