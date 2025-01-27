@@ -12,9 +12,9 @@ Bor Protocol is a comprehensive platform for creating and managing autonomous AI
 
 ### Component Interaction Flow
 ```
-[Viewers] <-> [Chrome Extension] <->[UI chat] <-> [Backend Server] <-> [Eliza/client-borp] <-> [Bor 3D UI]
+[Viewers] <-> [Chrome Extension] <->[UI chat] <-> [Backend Server] <-> [Bor-Core] <-> [Bor 3D UI]
                                                           ^               ^
                                                           |               |
-                                                      [MongoDB]      [PostgreSQL]
+                                                      [MongoDB]         [SQL]
 ```
 
